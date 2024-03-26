@@ -12,13 +12,13 @@ This is a pitch I made, as a team lead during my foundations training with ALX A
 My team proposed a tech soluion (Edflex), a web app that is easy to navigate and contains educational resources and creates room for peer-peer learning and student-tutor interactive session. It features deadlines for assignments, courses, classroom activities, community and student profile.
 
 ## Procedures taken
--- Team first meeting(Introduction and role assumptions)
--- Research on Problem statement
--- Hypothesis Geeneration
--- Data generation
--- Data cleaning and Visualization
--- Video pitch and editing
--- Pitch deck and upload on youtube Channel
+- Team first meeting(Introduction and role assumptions)
+- Research on Problem statement
+- Hypothesis Geeneration
+- Data generation
+- Data cleaning and Visualization
+- Video pitch and editing
+- Pitch deck and upload on youtube Channel
 
 ## Tools used
 - Google for research
